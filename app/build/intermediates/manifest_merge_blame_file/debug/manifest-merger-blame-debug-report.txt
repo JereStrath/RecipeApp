@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.androiddevchallenge"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.REORDER_TASKS" />
+11-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:24:5-72
+11-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:24:22-69
+12
+13    <application
+13-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:5:5-24:19
+14        android:allowBackup="true"
+14-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:6:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0-beta01] C:\Users\jerem\.gradle\caches\transforms-3\f7a091cdbe3f49f3c663146a1e8fb76a\transformed\core-1.5.0-beta01\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:7:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:8:9-41
+20        android:supportsRtl="true"
+20-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:9:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.AndroidDevChallenge" >
+22-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:10:9-57
+23        <activity
+23-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:11:9-13:48
+24            android:name="com.example.androiddevchallenge.ProfileActivity"
+24-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:12:13-44
+25            android:exported="true" />
+25-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:13:13-36
+26        <activity
+26-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:14:9-23:20
+27            android:name="com.example.androiddevchallenge.MainActivity"
+27-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:15:13-41
+28            android:label="@string/app_name"
+28-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:16:13-45
+29            android:theme="@style/Theme.AndroidDevChallenge.NoActionBar" >
+29-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:17:13-73
+30            <intent-filter>
+30-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:18:13-22:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:17-69
+31-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:21:17-77
+33-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:21:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->[androidx.compose.ui:ui-tooling:1.0.0-beta01] C:\Users\jerem\.gradle\caches\transforms-3\6441bb8df902d33f9eac0471a06eff89\transformed\jetified-ui-tooling-1.0.0-beta01\AndroidManifest.xml:25:9-27:39
+37            android:name="androidx.compose.ui.tooling.preview.PreviewActivity"
+37-->[androidx.compose.ui:ui-tooling:1.0.0-beta01] C:\Users\jerem\.gradle\caches\transforms-3\6441bb8df902d33f9eac0471a06eff89\transformed\jetified-ui-tooling-1.0.0-beta01\AndroidManifest.xml:26:13-79
+38            android:exported="true" />
+38-->[androidx.compose.ui:ui-tooling:1.0.0-beta01] C:\Users\jerem\.gradle\caches\transforms-3\6441bb8df902d33f9eac0471a06eff89\transformed\jetified-ui-tooling-1.0.0-beta01\AndroidManifest.xml:27:13-36
+39        <activity android:name="androidx.compose.ui.tooling.data.TestActivity" />
+39-->[androidx.compose.ui:ui-tooling-data:1.0.0-beta01] C:\Users\jerem\.gradle\caches\transforms-3\247d9f8a33e53ece6e4fc2623d0068ed\transformed\jetified-ui-tooling-data-1.0.0-beta01\AndroidManifest.xml:25:9-82
+39-->[androidx.compose.ui:ui-tooling-data:1.0.0-beta01] C:\Users\jerem\.gradle\caches\transforms-3\247d9f8a33e53ece6e4fc2623d0068ed\transformed\jetified-ui-tooling-data-1.0.0-beta01\AndroidManifest.xml:25:19-79
+40        <activity
+40-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:27:9-33:20
+41            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+41-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:28:13-99
+42            android:theme="@android:style/Theme" >
+42-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:29:13-49
+43            <intent-filter>
+43-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:30:13-32:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:17-69
+44-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:25-66
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:34:9-40:20
+48            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+48-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:35:13-95
+49            android:theme="@android:style/Theme" >
+49-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:36:13-49
+50            <intent-filter>
+50-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:30:13-32:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:17-69
+51-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:25-66
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:41:9-47:20
+55            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+55-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:42:13-103
+56            android:theme="@android:style/Theme.Dialog" >
+56-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:43:13-56
+57            <intent-filter>
+57-->[androidx.test:core:1.3.0] C:\Users\jerem\.gradle\caches\transforms-3\b81959dbc3dbc5ef4fcf012690ecceb7\transformed\jetified-core-1.3.0\AndroidManifest.xml:30:13-32:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:17-69
+58-->C:\Users\jerem\Downloads\bark\app\src\main\AndroidManifest.xml:19:25-66
+59            </intent-filter>
+60        </activity>
+61    </application>
+62
+63</manifest>
