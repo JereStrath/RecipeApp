@@ -9,6 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
     <list default="true" id="41ac521a-98f7-408a-aeea-8a3cb9743499" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androiddevchallenge/RecipeHome.kt" afterDir="false" />
@@ -67,6 +71,14 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+<<<<<<< HEAD
+=======
+=======
+    <list default="true" id="327686c6-0ac4-4250-b81b-139412002af4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,11 +142,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "last_directory_selection": "C:/Users/jerem/Downloads/bark/app/src/main/res/drawable",
     "last_opened_file_path": "C:/Users/jerem/Downloads/bark/app/src/main/java/com/example/androiddevchallenge",
+<<<<<<< HEAD
+=======
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/jerem/Documents/GitHub/Recipe_App",
+>>>>>>> Stashed changes
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -144,7 +171,15 @@
       <recent name="C:\Users\jerem\Downloads\bark\app\src\main\res\drawable" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Compose Preview.DarkPreview">
+=======
+<<<<<<< Updated upstream
+  <component name="RunManager" selected="Compose Preview.DarkPreview">
+=======
+  <component name="RunManager" selected="Compose Preview.LightPreview">
+>>>>>>> Stashed changes
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="AndroidDevChallenge.app.main" />
       <option name="DEPLOY" value="true" />
@@ -203,6 +238,10 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
     <configuration name="DarkPreview" type="ComposePreviewRunConfiguration" temporary="true">
       <module name="AndroidDevChallenge.app" />
       <option name="DEPLOY" value="true" />
@@ -262,6 +301,11 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> Stashed changes
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
     <configuration name="LightPreview" type="ComposePreviewRunConfiguration" temporary="true">
       <module name="AndroidDevChallenge.app" />
       <option name="DEPLOY" value="true" />
@@ -323,7 +367,14 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Compose Preview.DarkPreview" />
+=======
+<<<<<<< Updated upstream
+        <item itemvalue="Compose Preview.DarkPreview" />
+=======
+>>>>>>> Stashed changes
+>>>>>>> c9a8ed1fa1e5859f1ecb5bc3975ec743213fef7c
         <item itemvalue="Compose Preview.LightPreview" />
       </list>
     </recent_temporary>
