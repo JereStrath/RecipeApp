@@ -1,6 +1,10 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+<<<<<<< HEAD
+=======
+    id 'org.jetbrains.kotlin.android'
+>>>>>>> parent of 41c177f (new)
 }
 
 android {
@@ -61,6 +65,10 @@ android {
         excludes += "/META-INF/AL2.0"
         excludes += "/META-INF/LGPL2.1"
     }
+<<<<<<< HEAD
+=======
+    namespace 'com.example.androiddevchallenge'
+>>>>>>> parent of 41c177f (new)
 }
 
 dependencies {
@@ -74,6 +82,10 @@ dependencies {
     implementation "androidx.compose.material:material-icons-extended:$compose_version"
     implementation "androidx.compose.ui:ui-tooling:$compose_version"
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.0'
+<<<<<<< HEAD
+=======
+    implementation 'androidx.core:core-ktx:+'
+>>>>>>> parent of 41c177f (new)
 
     testImplementation 'junit:junit:4.13.2'
 

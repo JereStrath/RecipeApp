@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\jerem\\Downloads\\bark\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\jerem\\Downloads\\bark\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
@@ -126,5 +127,133 @@
     {
         "merged": "C:\\Users\\jerem\\Downloads\\bark\\app\\build\\intermediates\\merged_res\\debug\\drawable_img9.jpg.flat",
         "source": "C:\\Users\\jerem\\Downloads\\bark\\app\\src\\main\\res\\drawable\\img9.jpg"
+=======
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img2.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img2.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img7.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img7.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img8.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img8.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img11.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img11.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img5.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img5.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.androiddevchallenge.app-pngs-37:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img6.jpeg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img6.jpeg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img1.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img1.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_ic_paw.xml.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/ic_paw.xml"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img4.jpeg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img4.jpeg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img10.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img10.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img3.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img3.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img9.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img9.jpg"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androiddevchallenge.app-merged_res-40:/drawable_img12.jpg.flat",
+        "source": "com.example.androiddevchallenge.app-main-42:/drawable/img12.jpg"
+>>>>>>> parent of 41c177f (new)
     }
 ]
