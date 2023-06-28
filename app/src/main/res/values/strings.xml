@@ -1,5 +1,4 @@
 <resources>
-<<<<<<< HEAD
     <string name="app_name">RecipeApp</string>
     <string name="back">Back</string>
     <string name="more_options">More</string>
@@ -8,14 +7,4 @@
     <string name="findout_more">findout more</string>
     <string name="type">Type</string>
     <string name="cooking">cooking</string>
-=======
-    <string name="app_name">Jerrys_Recipes</string>
-    <string name="back">Back</string>
-    <string name="more_options">More</string>
-    <string name="name">Name</string>
-    <string name="cooking">cooking</string>
-    <string name="findout_more">Findout_more</string>
-    <string name="type">type</string>
-    <string name="ingredients">ingredients</string>
->>>>>>> parent of 41c177f (new)
 </resources>

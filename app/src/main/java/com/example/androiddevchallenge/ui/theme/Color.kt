@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
  * Copyright 2021 The Android Open Source Project
  *
@@ -14,8 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-=======
->>>>>>> parent of 41c177f (new)
 package com.example.androiddevchallenge.ui.theme
 
 import androidx.compose.ui.graphics.Color

@@ -80,11 +80,7 @@
                                               <map>
                                                 <entry key="color" value="000000" />
                                                 <entry key="imagePath" value="C:\Users\jerem\Downloads\icon.png" />
-<<<<<<< HEAD
                                                 <entry key="scalingPercent" value="88" />
-=======
-                                                <entry key="scalingPercent" value="79" />
->>>>>>> parent of 41c177f (new)
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -117,11 +113,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-<<<<<<< HEAD
                                       <entry key="backgroundColor" value="fcfcfc" />
-=======
-                                      <entry key="backgroundColor" value="ffffff" />
->>>>>>> parent of 41c177f (new)
                                     </map>
                                   </option>
                                 </PersistentState>

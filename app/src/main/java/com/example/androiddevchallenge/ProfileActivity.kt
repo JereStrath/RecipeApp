@@ -24,11 +24,7 @@ class ProfileActivity : AppCompatActivity() {
     }
 
     companion object {
-<<<<<<< HEAD
         private const val FOOD_ID = "food_id"
-=======
-        private const val FOOD_ID = "puppy_id"
->>>>>>> parent of 41c177f (new)
         fun newIntent(context: Context, foodpy: Food) =
             Intent(context, ProfileActivity::class.java).apply {
                 putExtra(FOOD_ID, foodpy)

@@ -8,14 +8,6 @@
         android:minSdkVersion="23"
         android:targetSdkVersion="30" />
 
-<<<<<<< HEAD
-=======
-    <permission
-        android:name="com.example.androiddevchallenge.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-        android:protectionLevel="signature" />
-
-    <uses-permission android:name="com.example.androiddevchallenge.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
->>>>>>> parent of 41c177f (new)
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 
     <application
